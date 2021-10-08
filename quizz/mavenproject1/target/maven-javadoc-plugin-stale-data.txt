@@ -1,0 +1,25 @@
+cmd.exe
+/X
+/C
+""D:\Program Files\Java\jdk-15\bin\javadoc.exe" @options @packages"
+F:\programming\Java\quizz\mavenproject1\target\apidocs\element-list = 1610950822000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\constant-values.html = 1610950822000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\serialized-form.html = 1610950822000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\overview-tree.html = 1610950824000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\deprecated-list.html = 1610950824000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\module-search-index.js = 1610950824000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\package-search-index.js = 1610950824000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\type-search-index.js = 1610950824000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\member-search-index.js = 1610950824000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\tag-search-index.js = 1610950824000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\index-all.html = 1610950824000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\allclasses-index.html = 1610950824000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\allpackages-index.html = 1610950824000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\index.html = 1610950824000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\help-doc.html = 1610950824000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\stylesheet.css = 1610950824000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\script.js = 1610950824000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\search.js = 1610950824000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\jquery-ui.overrides.css = 1610950826000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\options = 1610950816000
+F:\programming\Java\quizz\mavenproject1\target\apidocs\packages = 1610950816000
